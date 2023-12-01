@@ -38,4 +38,6 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para rela
 # Licença
 Este projeto está licenciado sob a Licença MIT.
 
+Aproveite este projeto como um ponto de partida para construir suas próprias aplicações em Java!
+
 
