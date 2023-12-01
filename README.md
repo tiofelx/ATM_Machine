@@ -14,19 +14,19 @@ Depositar Fundos: Os usuários podem depositar dinheiro em suas contas.
 Certifique-se de ter o Java instalado em sua máquina antes de executar o projeto.
 
 # Como Executar
-Clone o repositório para a sua máquina local:
+Clone o repositório para a sua máquina local: <br>
 bash $ <br>
 git clone https://github.com/seu-usuario/atm-machine-java.git
 
-Navegue até o diretório do projeto:
+Navegue até o diretório do projeto: <br>
 bash $ <br>
 cd atm-machine-java
 
-Compile o código-fonte:
+Compile o código-fonte: <br>
 bash $ <br>
 javac ATM.java
 
-Execute o programa:
+Execute o programa: <br>
 bash $ <br>
 java ATM
 
