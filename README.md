@@ -36,6 +36,6 @@ Siga as instruções no console para realizar operações na ATM.
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para relatar bugs ou sugerir melhorias. Se desejar contribuir diretamente, abra um pull request e ficaremos felizes em revisar.
 
 # Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
+Este projeto está licenciado sob a Licença MIT.
 
 
