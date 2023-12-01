@@ -16,22 +16,22 @@ Certifique-se de ter o Java instalado em sua máquina antes de executar o projet
 # Como Executar
 Clone o repositório para a sua máquina local:
 
-bash
+bash <br>
 Copy code
 git clone https://github.com/seu-usuario/atm-machine-java.git
 Navegue até o diretório do projeto:
 
-bash
+bash <br>
 Copy code
 cd atm-machine-java
 Compile o código-fonte:
 
-bash
+bash /n
 Copy code
 javac ATM.java
 Execute o programa:
 
-bash
+bash /n
 Copy code
 java ATM
 Siga as instruções no console para realizar operações na ATM.
