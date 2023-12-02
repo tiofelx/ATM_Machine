@@ -33,7 +33,7 @@ java ATM
 Siga as instruções no console para realizar operações na ATM.
 
 # Contribuições
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues para relatar bugs ou sugerir melhorias. Se desejar contribuir diretamente, abra um pull request e ficaremos felizes em revisar.
+Contribuições são bem-vindas! Se você encontrar bugs ou quiser adicionar novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
 # Licença
 Este projeto está licenciado sob a Licença MIT.
